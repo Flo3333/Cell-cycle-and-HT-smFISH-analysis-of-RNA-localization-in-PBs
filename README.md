@@ -1,6 +1,5 @@
 # rna-in-pbody-quantification
-Source code from pipeline used for rna/pbody quantification (python)
-
+Source code from pipeline used for rna/pbody quantification - python 3.8.16
 *Author : Slimani Floric Institut de Génétique Humaine - CNRS - Montpellier*
 *2023-11-06*
 
