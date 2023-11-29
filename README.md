@@ -16,17 +16,19 @@ Source code from pipeline used for Cell cycle and HT-smFISH analysis of RNA loca
 Pachitariu, M., Stringer, C. Cellpose 2.0: how to train your own model. Nat Methods 19, 1634–1641 (2022).  
 - bigFish(https://github.com/fish-quant/big-fish)  
 Imbert A, Ouyang W, Safieddine A, Coleno E, Zimmer C, Bertrand E, Walter T, Mueller F. FISH-quant v2: a scalable and modular tool for smFISH image analysis. RNA. 2022 Jun;28(6):786-795. doi: 10.1261/rna.079073.121. Epub 2022 Mar 28. PMID: 35347070; PMCID: PMC9074904.
+- CustomPandasFramework (see repository content)
+- pbwrap (see repository content)
 
 
  **Repository content**
 
- - **Pbody_analysis_byGenes.py**  
+ - pipeline/**Pbody_analysis_byGenes.py**  
   Pipeline processing field of views and saves raw data in feather dataframes.
    
- - **Pbody_results_plots.py**  
+ - pipeline/**Pbody_results_plots.py**  
    Read raw data in feather dataframes and compute a set of quantification graphs.
 
- - **Pbody_table_extracts.py**  
+ - pipeline/**Pbody_table_extracts.py**  
    Read raw data in feather dataframes and extracts set of data into excels files.
    
  - **CustomPandasFramework**  
