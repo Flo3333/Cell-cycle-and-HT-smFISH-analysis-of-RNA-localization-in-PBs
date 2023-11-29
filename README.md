@@ -23,17 +23,17 @@ Imbert A, Ouyang W, Safieddine A, Coleno E, Zimmer C, Bertrand E, Walter T, Muel
  - **Pbody_analysis_byGenes.py**  
   Pipeline processing field of views and saves raw data in feather dataframes.
    
- - **Pbody_results_plots.py**
+ - **Pbody_results_plots.py**  
    Read raw data in feather dataframes and compute a set of quantification graphs.
 
- - **Pbody_table_extracts.py**
+ - **Pbody_table_extracts.py**  
    Read raw data in feather dataframes and extracts set of data into excels files.
    
- - **CustomPandasFramework**
+ - **CustomPandasFramework**  
    Custom python package used to handle data management during et after analysis pipeline.
    
- - **pbwrap**
+ - **pbwrap**  
    Custom functions used to analyse images such as wrappers around cellpose and bigFish.
    
- - **cellpose model**
+ - **cellpose model**  
    Retrained cellpose2 model.
