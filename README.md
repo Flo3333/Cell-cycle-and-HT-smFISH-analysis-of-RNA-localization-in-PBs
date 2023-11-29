@@ -14,7 +14,7 @@ Source code from pipeline used for Cell cycle and HT-smFISH analysis of RNA loca
 - skimage  
 - cellpose 2.0 (https://github.com/MouseLand/cellpose/blob/main/README.md)  
 Pachitariu, M., Stringer, C. Cellpose 2.0: how to train your own model. Nat Methods 19, 1634–1641 (2022).  
-- bigFish(https://github.com/fish-quant/big-fish)  
+- bigFish (https://github.com/fish-quant/big-fish)  
 Imbert A, Ouyang W, Safieddine A, Coleno E, Zimmer C, Bertrand E, Walter T, Mueller F. FISH-quant v2: a scalable and modular tool for smFISH image analysis. RNA. 2022 Jun;28(6):786-795. doi: 10.1261/rna.079073.121. Epub 2022 Mar 28. PMID: 35347070; PMCID: PMC9074904.
 - CustomPandasFramework (see repository content)
 - pbwrap (see repository content)
