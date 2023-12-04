@@ -25,12 +25,6 @@ Imbert A, Ouyang W, Safieddine A, Coleno E, Zimmer C, Bertrand E, Walter T, Muel
  - pipeline/**Pbody_analysis_byGenes.py**  
   Pipeline processing field of views and saves raw data in feather dataframes.
    
- - pipeline/**Pbody_results_plots.py**  
-   Read raw data in feather dataframes and compute a set of quantification graphs.
-
- - pipeline/**Pbody_table_extracts.py**  
-   Read raw data in feather dataframes and extracts set of data into excels files.
-   
  - **CustomPandasFramework**  
    Custom python package used to handle data management during et after analysis pipeline.
    
